@@ -1,0 +1,12 @@
+#Configuration
+build:
+    version: "1.0"
+
+accounts:
+    message: "Welcome to MyBank account related REST APIs-UAT"
+    contactDetails:
+        name: "Lakhan Jadhav"
+        email: "lakhan.jadhav@mahadiscom.in"
+    onCallSupport:
+        - 9876543210
+        - 1234567890
